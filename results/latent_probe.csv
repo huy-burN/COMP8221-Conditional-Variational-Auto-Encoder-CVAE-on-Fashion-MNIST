@@ -1,0 +1,4 @@
+,linear_probe_acc,knn_probe_acc,chance,classifier_on_real_images
+d_z=2,0.222,0.2971,0.1,0.8975
+d_z=16,0.5962,0.8393,0.1,0.8975
+d_z=32,0.9617,0.9083,0.1,0.8975

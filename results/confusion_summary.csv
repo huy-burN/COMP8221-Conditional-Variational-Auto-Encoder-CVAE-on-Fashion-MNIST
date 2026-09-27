@@ -1,0 +1,11 @@
+,real_recall,gen_acc_z2,top_confusion_z2,gen_acc_z16,top_confusion_z16,gen_acc_z32,top_confusion_z32
+T-shirt/top,0.874,0.829,Pullover (0.08),0.879,Dress (0.05),0.878,Dress (0.05)
+Trouser,0.956,0.895,Shirt (0.04),0.934,Dress (0.05),0.948,Dress (0.04)
+Pullover,0.872,0.909,T-shirt/top (0.05),0.888,Shirt (0.04),0.819,T-shirt/top (0.06)
+Dress,0.912,0.73,T-shirt/top (0.12),0.805,T-shirt/top (0.14),0.736,T-shirt/top (0.19)
+Coat,0.793,0.479,Shirt (0.28),0.442,Pullover (0.33),0.537,Pullover (0.26)
+Sandal,0.989,0.231,Ankle boot (0.66),0.424,Ankle boot (0.31),0.488,Ankle boot (0.25)
+Shirt,0.709,0.539,T-shirt/top (0.34),0.535,T-shirt/top (0.20),0.455,T-shirt/top (0.25)
+Sneaker,0.933,0.561,Ankle boot (0.41),0.85,Ankle boot (0.11),0.842,Ankle boot (0.13)
+Bag,0.975,0.882,Pullover (0.05),0.94,Sneaker (0.02),0.905,T-shirt/top (0.03)
+Ankle boot,0.962,0.973,Sneaker (0.03),0.872,Bag (0.10),0.887,Bag (0.06)
